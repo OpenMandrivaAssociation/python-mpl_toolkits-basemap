@@ -1,7 +1,7 @@
 %define tarname basemap
 %define name	python-mpl_toolkits-%{tarname}
 %define version 1.0
-%define release %mkrel 2
+%define release 3
 
 Summary:	Python package for plotting on map projections
 Name:		%{name}
