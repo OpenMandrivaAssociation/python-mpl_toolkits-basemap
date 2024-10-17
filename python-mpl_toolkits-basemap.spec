@@ -10,7 +10,7 @@ Release:	%{release}
 Source0:	%{tarname}-%{version}.tar.gz
 License:	MIT
 Group:		Development/Python
-Url:		http://matplotlib.sourceforge.net/basemap/doc/html/
+Url:		https://matplotlib.sourceforge.net/basemap/doc/html/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:	python-matplotlib >= 0.98
 Requires:	python-numpy >= 1.1
